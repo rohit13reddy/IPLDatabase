@@ -1,8 +1,3 @@
-# TEAM : PVR
-   
-Pusapati Romaharshan 2020101069
-Thallapragada Sai Venu Gopal 2020101067
-Pothuri Praneeth Varma 2020101040.
 
 The zip file submitted consists of project.sql,MiniWorld.py and README.md
 1. project.sql consists of all the queries required to populate the database.
